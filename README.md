@@ -1,9 +1,9 @@
 ## Installation
 
-git clone https://github.com/edsel77/simple-notes-app.git
-composer install
-npm install
-php artisan migrate
+# git clone https://github.com/edsel77/simple-notes-app.git
+# composer install
+# npm install
+# php artisan migrate
 
 ## Features
 created from scratch
